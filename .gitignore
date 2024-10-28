@@ -14,6 +14,7 @@ conaninfo.txt
 graph_info.json
 conan.lock
 conan_toolchain.cmake
+CMakeUserPresets.json
 
 # Compiled object files, libraries, and executables
 *.obj
